@@ -1,0 +1,27 @@
+{
+  "frameworkVersion": "1.1",
+  "validatedWith": "Static checks",
+  "passed": true,
+  "checks": {
+    "api": true,
+    "example": true
+  },
+  "api": {
+    "version": "1.1",
+    "theme": true,
+    "accent": true,
+    "components": true,
+    "toast": true
+  },
+  "example": {
+    "file": "example.html",
+    "componentsDocumented": 64,
+    "loaded": true,
+    "pageErrors": []
+  },
+  "staticValidation": {
+    "tuiframeworkSyntax": "pass",
+    "exampleScriptSyntax": "not-applicable",
+    "applicationSpecificReferences": []
+  }
+}
